@@ -1,3 +1,6 @@
+
+ This repo was part of a 3-part email course from: https://www.typescriptcourse.com/. To migrate a javascript project to a typescript project
+
 # dotpather
 
 [![Build Status](http://img.shields.io/travis/jarofghosts/dotpather.svg?style=flat-square)](https://travis-ci.org/jarofghosts/dotpather)
